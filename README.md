@@ -3,6 +3,7 @@ Ultimate list of Linux commands for daily operations
 
 **System Information:**
 Check system information: uname -a
+
 Display CPU information: lscpu
 Show memory usage: free -m
 View disk space usage: df -h
