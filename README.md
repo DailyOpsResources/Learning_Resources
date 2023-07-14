@@ -8,7 +8,7 @@ Ultimate list of commands and learning resources for daily operations and system
 
 **GIT**<br>
 [Git and Github for beginners](https://www.youtube.com/watch?v=RGOj5yH7evk) <br>
-[Git full course](https://www.youtube.com/watch?v=akD-DpolilE)
+[Git full course](https://www.youtube.com/watch?v=akD-DpolilE) <br>
 [Commands](https://github.com/arunbhimarao/Useful_commands-/blob/main/GIT/GIT%20Commands.md)
 
 **Networking**<br>
