@@ -16,7 +16,7 @@ Ultimate list of commands and learning resources for daily operations and system
 [Commands](https://github.com/arunbhimarao/Useful_commands-/blob/main/Networking/Network%20commands.md)
 
 **Servers**<br>
-[NGINX crash course](https://www.youtube.com/watch?v=7VAI73roXaY)
+[NGINX crash course](https://www.youtube.com/watch?v=7VAI73roXaY) <br>
 [Server+ guide - good to know](https://www.examguides.com/Serverplus/server-plus.htm)
 
 **Windows Server**<br>
