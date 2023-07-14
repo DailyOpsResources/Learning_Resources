@@ -2,6 +2,7 @@
 Ultimate list of commands and learning resources for daily operations and system administrators. 
 
 **Linux** <br>
+[Linux administrator course](https://www.youtube.com/watch?v=aaEoyVIowk8) <br>
 [Commands](https://github.com/arunbhimarao/Useful_commands-/blob/main/Linux/Linux_commands.md)
 
 **GIT**<br>
