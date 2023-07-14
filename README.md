@@ -1,12 +1,12 @@
 # Useful_commands
 Ultimate list of Linux commands for daily operations
 
-**System Information:**
+**System Information:** <br>
 
-Check system information: uname -a 
-Display CPU information: lscpu 
-Show memory usage: free -m 
-View disk space usage: df -h
+Check system information: uname -a  <br>
+Display CPU information: lscpu  <br>
+Show memory usage: free -m  <br>
+View disk space usage: df -h <br>
 
 **Process Management:**
 List running processes: ps -ef
