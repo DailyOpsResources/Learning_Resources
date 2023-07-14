@@ -1,4 +1,4 @@
-Repository Initialization:
+**Repository Initialization:**
 git init: Initialize a new Git repository in the current directory.
 
 Cloning and Remote Operations:
