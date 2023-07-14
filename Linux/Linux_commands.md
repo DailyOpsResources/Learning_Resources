@@ -12,33 +12,33 @@ Search for a specific process: pgrep <process_name>  <br>
 Kill a process: kill <PID>  <br>
 Check system load: top or htop <br>
 
-**User and Group Management:**
-Create a user: sudo adduser <username>  
-Add user to a group: sudo usermod -aG <groupname> <username>  
-Change user password: sudo passwd <username>  
-Grant sudo privileges: sudo visudo  
+**User and Group Management:** <br>
+Create a user: sudo adduser <username>  ****
+Add user to a group: sudo usermod -aG <groupname> <username> **** 
+Change user password: sudo passwd <username>  ****
+Grant sudo privileges: sudo visudo  ****
 
-**File Operations:**
-List files and directories: ls 
-Change directory: cd <directory>  
-Create a directory: mkdir <directory_name>  
-Copy a file or directory: cp <source> <destination>  
-Move or rename a file or directory: mv <source> <destination> 
-Remove a file or directory: rm <file_or_directory>  
-View file contents: cat <filename>  
-Edit a file: vim <filename>  
+**File Operations:** <br>
+List files and directories: ls <br>
+Change directory: cd <directory>  <br>
+Create a directory: mkdir <directory_name> <br> 
+Copy a file or directory: cp <source> <destination>  <br>
+Move or rename a file or directory: mv <source> <destination> <br>
+Remove a file or directory: rm <file_or_directory>  <br>
+View file contents: cat <filename>  <br>
+Edit a file: vim <filename>  <br>
 
-**Network Configuration:**
-Show IP addresses: ip addr show or ifconfig 
-Check network connectivity: ping <host>
-View network routing table: route -n or ip route show 
-Configure network interfaces: sudo vim /etc/network/interfaces
+**Network Configuration:**<br>
+Show IP addresses: ip addr show or ifconfig <br>
+Check network connectivity: ping <host><br>
+View network routing table: route -n or ip route show <br>
+Configure network interfaces: sudo vim /etc/network/interfaces<br>
  
-**Package Management:**
-Update package lists: sudo apt update or sudo yum update 
-Install a package: sudo apt install <package_name> or sudo yum install <package_name> 
-Remove a package: sudo apt remove <package_name> or sudo yum remove <package_name> 
-Search for a package: apt search <package_name> or yum search <package_name> 
+**Package Management:**<br>
+Update package lists: sudo apt update or sudo yum update <br>
+Install a package: sudo apt install <package_name> or sudo yum install <package_name> <br>
+Remove a package: sudo apt remove <package_name> or sudo yum remove <package_name> <br>
+Search for a package: apt search <package_name> or yum search <package_name> <br>
 
 **Log Files:**<br>
 View system logs: tail -f /var/log/syslog <br>
