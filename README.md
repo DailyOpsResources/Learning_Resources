@@ -8,6 +8,7 @@ Ultimate list of commands and learning resources for daily operations and system
 [Commands](https://github.com/arunbhimarao/Useful_commands-/blob/main/GIT/GIT%20Commands.md)
 
 **Networking**<br>
+[Networking course for beginners](https://www.youtube.com/watch?v=0uflG0SemyM) <br>
 [Commands](https://github.com/arunbhimarao/Useful_commands-/blob/main/Networking/Network%20commands.md)
 
 
