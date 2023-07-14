@@ -7,7 +7,7 @@ Ultimate list of commands and learning resources for daily operations and system
 [Commands](https://github.com/arunbhimarao/Useful_commands-/blob/main/Linux/Linux_commands.md)
 
 **GIT**<br>
-[Git and Github for beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+[Git and Github for beginners](https://www.youtube.com/watch?v=RGOj5yH7evk) <br>
 [Commands](https://github.com/arunbhimarao/Useful_commands-/blob/main/GIT/GIT%20Commands.md)
 
 **Networking**<br>
