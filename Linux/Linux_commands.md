@@ -46,7 +46,7 @@ View authentication logs: tail -f /var/log/auth.log <br>
 View kernel logs: dmesg  <br>
 View application logs: tail -f /var/log/application.log <br>
 
-**System Updates and Upgrades:**
+**System Updates and Upgrades:**<br>
 Update the system: sudo apt upgrade or sudo yum update <br>
 Upgrade to a new distribution version: sudo do-release-upgrade or sudo yum upgrade <br>
 
