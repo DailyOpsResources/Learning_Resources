@@ -1,6 +1,6 @@
 Ultimate list of Linux commands for daily operations
 
-**System Information:** <br>
+System Information:
 
 Check system information: uname -a  <br>
 Display CPU information: lscpu  <br>
