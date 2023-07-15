@@ -22,6 +22,9 @@ Ultimate list of commands and learning resources for daily operations and system
 **Windows Server**<br>
 [Windows server 2022](https://www.server-world.info/en/note?os=Windows_Server_2022&p=download)
 
+**IT Service Management** <br>
+[ITIL concepts - good to know](https://www.simplilearn.com/itil-key-concepts-and-summary-article)
+
 
 **Contributing**<br>
 Contributions are welcome! Submit pull requests for improvements or additional resources. 
