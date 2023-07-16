@@ -2,8 +2,10 @@
 
 # Daily Admin Duties Script
 
-# Please note that this is a basic script and may need modifications based on your specific requirements. Make sure to replace the placeholder commands with the appropriate commands for your system. 
-# Please remember to review and customize the script according to your specific requirements before using it in a production environment.
+# Please note that this is a basic script and may need modifications 
+# based on your specific requirements.
+# Please remember to review and customize the script according to your
+# specific requirements before using it in a production environment.
 
 # Log file to store script output
 LOG_FILE="/var/log/daily_admin.log"
