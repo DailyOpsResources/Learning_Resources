@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # System Monitoring Script
-# Please remember to review and customize the script according to your specific requirements before using it in a production environment.
+# Please remember to review and customize the script according to your 
+# specific requirements before using it in a production environment.
 
 
 # Function to monitor CPU usage
