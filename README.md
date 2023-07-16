@@ -27,9 +27,9 @@ Ultimate list of commands and learning resources for daily operations and system
 [ITIL for beginners](https://youtu.be/ocYToLN9vrQ)
 
 **Best of youtube (Personal)** <br> 
-[Information Security](https://youtube.com/@PrabhNair1)
-[Study Notes and Theory](https://youtube.com/@StudyNotesandTheory)
-[Computer Networking - Cisco](https://youtube.com/@JeremysITLab)
+[Information Security](https://youtube.com/@PrabhNair1) <br>
+[Study Notes and Theory](https://youtube.com/@StudyNotesandTheory) <br> 
+[Computer Networking - Cisco](https://youtube.com/@JeremysITLab) <br> 
 [Professor Messer - CompTIA stuff, good to know](https://youtube.com/@professormesser)
 
 **Contributing**<br>
