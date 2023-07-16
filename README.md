@@ -26,6 +26,11 @@ Ultimate list of commands and learning resources for daily operations and system
 [ITIL concepts - good to know](https://www.simplilearn.com/itil-key-concepts-and-summary-article) <br>
 [ITIL for beginners](https://youtu.be/ocYToLN9vrQ)
 
+**Best of youtube (Personal)** <br> 
+[Information Security](https://youtube.com/@PrabhNair1)
+[Study Notes and Theory](https://youtube.com/@StudyNotesandTheory)
+[Computer Networking - Cisco](https://youtube.com/@JeremysITLab)
+[Professor Messer - CompTIA stuff, good to know](https://youtube.com/@professormesser)
 
 **Contributing**<br>
 Contributions are welcome! Submit pull requests for improvements or additional resources. 
