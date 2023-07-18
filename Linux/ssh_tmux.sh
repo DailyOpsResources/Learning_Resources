@@ -7,6 +7,9 @@
 # Note: Ensure the file contains valid hostnames, one per line
 # and tmux is installed on your system.
 
+# Modify accordingly to ssh to a given user name. 
+# Add ssh keys to clients to automate login under the given user name. 
+
 # Check if filename argument is provided
 if [ -z "$1" ]; then
     echo "Usage: $0 <filename>"
